@@ -1,3 +1,10 @@
+###
+# Supportvaktene i MORSE er delt inn i 2-timers bolker: kl 08-10, kl 10-12, kl 12-14 og kl 14-16.
+# Skriv et program som finner det totale antall henvendelser supportavdelingen mottok for hver av
+# tidsrommene 08-10, 10-12, 12-14 og 14-16 for uke 24. Resultatet visualiseres ved bruk av et
+# sektordiagram (kakediagram).
+###
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

@@ -1,3 +1,8 @@
+###
+# Skriv et program som finner antall henvendelser for hver de 5 ukedagene.
+# Resultatet visualiseres ved bruk av et søylediagram (stolpediagram).
+##
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

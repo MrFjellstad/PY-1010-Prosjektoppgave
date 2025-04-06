@@ -1,3 +1,8 @@
+###
+# Kundens tilfredshet loggføres som tall fra 1-10 hvor 1 indikerer svært misfornøyd og 10
+# indikerer svært fornøyd. Disse tilbakemeldingene skal så overføres til NPS-systemet (Net Promoter Score).
+###
+
 import pandas as pd
 
 df = pd.read_excel('support_uke_24.xlsx')

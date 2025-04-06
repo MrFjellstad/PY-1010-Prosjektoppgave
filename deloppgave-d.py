@@ -1,3 +1,7 @@
+###
+# Skriv et program som regner ut gjennomsnittlig samtaletid basert på alle henvendelser i uke 24.
+###
+
 import pandas as pd
 
 
